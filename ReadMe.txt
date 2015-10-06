@@ -1,0 +1,1 @@
+In each file, the first line show the name of columns. Final.result show the final detecting result. Uers share the same CNM-communitiy,GRACLUS-community,MLRMCL-community at the same time belong to one community.
